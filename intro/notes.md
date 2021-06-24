@@ -13,3 +13,12 @@
 
 ## How? Jasmine : Why?
   * Gives you everything you need to test your code
+
+&nbsp;
+
+## **Resources**
+
+[MDN Web Docs](https://developer.mozilla.org/en-US/docs/Web/API/Document) : Great place to get
+information on web development
+
+
