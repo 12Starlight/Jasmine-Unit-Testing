@@ -10,3 +10,6 @@
   * Changes occur quickly
   * Documents your own code
   * Automation
+
+## How? Jasmine : Why?
+  * Gives you everything you need to test your code
