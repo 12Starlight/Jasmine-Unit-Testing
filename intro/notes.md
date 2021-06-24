@@ -21,4 +21,8 @@
 [MDN Web Docs](https://developer.mozilla.org/en-US/docs/Web/API/Document) : Great place to get
 information on web development
 
+&nbsp;
 
+## **Course Notes**
+
+[Why Unit Testing](../notes/2.+Why+unit+testing_+why+jasmine_.pdf)
