@@ -5,6 +5,7 @@ function Calculator() {
 Calculator.prototype.add = function(number) {
   return this.total += number;
 }
+
 Calculator.prototype.subtract = function(number) {
   return this.total -= number;
 }
