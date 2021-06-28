@@ -31,3 +31,7 @@
   color: #9EADFF;
   text-align: center;
 }
+
+::placeholder {
+  color: #7389FF;
+}
